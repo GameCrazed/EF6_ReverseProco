@@ -1,0 +1,114 @@
+
+
+namespace Generator
+{
+
+    public class Nbct
+    {
+        public int Nbct001 { get; set; }
+        public byte Nbct005 { get; set; }
+        public int Nbct007 { get; set; }
+        public int Nbct010 { get; set; }
+        public System.DateTime Nbct020 { get; set; }
+        public System.DateTime Nbct030 { get; set; }
+        public string Nbct040 { get; set; }
+        public string Nbct075 { get; set; }
+        public string Nbct100 { get; set; }
+        public string Nbct150 { get; set; }
+        public string Nbct200 { get; set; }
+        public string Nbct210 { get; set; }
+        public string Nbct220 { get; set; }
+        public int Nbct275 { get; set; }
+        public int Nbct276 { get; set; }
+        public int Nbct300 { get; set; }
+        public int Nbct301 { get; set; }
+        public int Nbct350 { get; set; }
+        public int Nbct375 { get; set; }
+        public string Nbct380 { get; set; }
+        public byte Nbct500 { get; set; }
+        public byte Nbct501 { get; set; }
+        public byte Nbct502 { get; set; }
+        public byte Nbct503 { get; set; }
+        public byte Nbct504 { get; set; }
+        public byte Nbct505 { get; set; }
+        public byte Nbct506 { get; set; }
+        public byte Nbct507 { get; set; }
+        public byte Nbct508 { get; set; }
+        public byte Nbct509 { get; set; }
+        public byte Nbct510 { get; set; }
+        public byte Nbct511 { get; set; }
+        public byte Nbct512 { get; set; }
+        public byte Nbct513 { get; set; }
+        public byte Nbct514 { get; set; }
+        public byte Nbct515 { get; set; }
+        public byte Nbct516 { get; set; }
+        public byte Nbct517 { get; set; }
+        public byte Nbct518 { get; set; }
+        public byte Nbct519 { get; set; }
+        public int Nbct600 { get; set; }
+        public int Nbct601 { get; set; }
+        public int Nbct602 { get; set; }
+        public int Nbct603 { get; set; }
+        public int Nbct604 { get; set; }
+        public int Nbct605 { get; set; }
+        public int Nbct606 { get; set; }
+        public int Nbct607 { get; set; }
+        public int Nbct608 { get; set; }
+        public int Nbct609 { get; set; }
+        public int Nbct610 { get; set; }
+        public int Nbct611 { get; set; }
+        public int Nbct612 { get; set; }
+        public int Nbct613 { get; set; }
+        public int Nbct614 { get; set; }
+        public int Nbct615 { get; set; }
+        public int Nbct616 { get; set; }
+        public int Nbct617 { get; set; }
+        public int Nbct618 { get; set; }
+        public int Nbct620 { get; set; }
+        public int Nbct621 { get; set; }
+        public byte Nbct700 { get; set; }
+        public byte Nbct701 { get; set; }
+        public byte Nbct702 { get; set; }
+        public byte Nbct703 { get; set; }
+        public byte Nbct704 { get; set; }
+        public byte Nbct705 { get; set; }
+        public byte Nbct706 { get; set; }
+        public byte Nbct707 { get; set; }
+        public byte Nbct708 { get; set; }
+        public byte Nbct709 { get; set; }
+        public byte Nbct710 { get; set; }
+        public byte Nbct711 { get; set; }
+        public byte Nbct712 { get; set; }
+        public byte Nbct713 { get; set; }
+        public byte Nbct714 { get; set; }
+        public byte Nbct715 { get; set; }
+        public byte Nbct716 { get; set; }
+        public byte Nbct717 { get; set; }
+        public byte Nbct718 { get; set; }
+        public byte Nbct800 { get; set; }
+        public string Nbct900 { get; set; }
+        public string Nbct901 { get; set; }
+        public byte Nbct390 { get; set; }
+        public byte Nbct520 { get; set; }
+        public byte Nbct521 { get; set; }
+        public byte Nbct522 { get; set; }
+        public byte Nbct523 { get; set; }
+        public byte Nbct524 { get; set; }
+        public byte Nbct525 { get; set; }
+        public byte Nbct526 { get; set; }
+        public byte Nbct527 { get; set; }
+        public byte Nbct528 { get; set; }
+        public int Nbct619 { get; set; }
+        public int Nbct622 { get; set; }
+        public int Nbct623 { get; set; }
+        public int Nbct624 { get; set; }
+        public int Nbct625 { get; set; }
+        public int Nbct626 { get; set; }
+        public int Nbct627 { get; set; }
+        public int Nbct628 { get; set; }
+        public byte Nbct530 { get; set; }
+        public byte Nbct630 { get; set; }
+        public byte Nbct003 { get; set; }
+    }
+
+}

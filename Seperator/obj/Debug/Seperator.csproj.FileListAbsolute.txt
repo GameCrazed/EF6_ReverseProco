@@ -1,0 +1,7 @@
+C:\Users\ceidson\Desktop\ReverseProco\Seperator\bin\Debug\Seperator.exe.config
+C:\Users\ceidson\Desktop\ReverseProco\Seperator\bin\Debug\Seperator.exe
+C:\Users\ceidson\Desktop\ReverseProco\Seperator\bin\Debug\Seperator.pdb
+C:\Users\ceidson\Desktop\ReverseProco\Seperator\obj\Debug\Seperator.csprojResolveAssemblyReference.cache
+C:\Users\ceidson\Desktop\ReverseProco\Seperator\obj\Debug\Seperator.csproj.CoreCompileInputs.cache
+C:\Users\ceidson\Desktop\ReverseProco\Seperator\obj\Debug\Seperator.exe
+C:\Users\ceidson\Desktop\ReverseProco\Seperator\obj\Debug\Seperator.pdb
